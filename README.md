@@ -14,3 +14,5 @@ The errors are:
 ## The Future
 I might make the design modular, this would enable greater flexibility and probably would be cheaper.
 Making the housing more practical and prettier.
+
+If you want to build one of those yoursellf, but you encounter some problems with the provided files, contact me.
