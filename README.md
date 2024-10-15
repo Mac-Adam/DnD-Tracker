@@ -10,6 +10,7 @@ A standard 18650 cell is enough to power it for tens of hours (depending on the 
 This project is not yet fully finished, the pcb and the files contain some errors that I haven't fixed yet.
 The errors are:
   - Didn't reverse the logic of the LED ON button, insead of turning the leds off, it blasts them at full power
+  - Transistors in one of the signal reperaters in the HP modules are switched (P is in flsae of N and N is in place of P)
   - The housing has misaligned mounting holes
 ## The Future
 I might make the design modular, this would enable greater flexibility and probably would be cheaper.
